@@ -1,4 +1,4 @@
-# Simple Shot Multibox Detector (SSD) para la detección de ballenas jorobadas
+# Entrenando Simple Shot Multibox Detector (SSD) para la detección de ballenas jorobadas utilizando imágenes de Happy Whale
 
 Proyecto para el curso de "Técnicas avanzadas de minería de datos y sistemas inteligentes"
 
